@@ -1,6 +1,6 @@
 # Algoritmo de Viterbi
 
-[Originally created in October 2018]
+[Originally created in October 2018]   
 **Note: This was an assignment developed for my Natural Language Processing course.**
 
 El desarrollo de este proyecto se realizó en un ambiente virtual con Anaconda y Python 2.7.
