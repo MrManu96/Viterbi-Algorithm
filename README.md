@@ -1,6 +1,6 @@
 # Algoritmo de Viterbi
 
-**Note**: This was an assignment developed for my Natural Language Processing course.
+**Note: This was an assignment developed for my Natural Language Processing course.**
 
 El desarrollo de este proyecto se realizó en un ambiente virtual con Anaconda y Python 2.7.
 Para probarlo, la carpeta del corpus debe estar ubicada en el mismo directorio donde se ubique el programa.
